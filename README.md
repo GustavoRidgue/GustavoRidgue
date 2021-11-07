@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on back-end
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me: (E-mail) gustavo.ridgue@gmail.com, (LinkedIn) https://www.linkedin.com/in/gustavo-ridgue
-- ⚡ Fun fact: I have another profile that I've been using since I started programming, but the profile was messed up and one with old email, so that's why I created this one.
+- ⚡ Fun fact: I have another profile (https://github.com/GustavoRidguer) that I've been using since I started programming, but the profile was messed up and one with old email, so that's why I created this one.
 - 🙋🏻‍♂️ I'm Brazilian and I've been working in the programming area since 2020 in a finance company
 
 <div align="center">
