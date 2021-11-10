@@ -1,4 +1,4 @@
-### Hello! I'm Gustavo Ridgue 👋
+### Hello! I'm Gustavo Ridgue. (Optei por deixar meu perfil em inglês afim de maior ganho educacional).
 
 - 🔭 I’m currently working on back-end
 - 🌱 I’m currently learning Angular
